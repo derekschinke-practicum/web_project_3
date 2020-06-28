@@ -1,0 +1,8 @@
+@import url('./__items/photo-grid__items.css');
+@import url('./__item/photo-grid__item.css');
+
+.photo-grid {
+  padding-top: 93px;
+  margin: 0 auto;
+  max-width: 1184px;
+}
