@@ -4,7 +4,7 @@
 @import url('./__link/cover__link.css');
 
 .cover {
-  max-width: 1184px;
+  width: 1184px;
   height: 740px;
   background-image: url('../../images/cover-route-66.jpg');
   margin: 92px auto 0;
