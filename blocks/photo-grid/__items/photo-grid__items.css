@@ -2,8 +2,8 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  display: grid;
+  display: flex;
+  flex-direction: row;
   gap: 16px;
-  grid-template-columns: repeat(4, 284px);
-  grid-template-rows: repeat(3, 213px);
+  flex-wrap: wrap;
 }
