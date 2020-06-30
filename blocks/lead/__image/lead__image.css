@@ -6,3 +6,10 @@
   height: 615px;
   object-fit: cover;
 }
+
+@media screen and (max-width: 1279px) {
+  .lead__image {
+    height: 580px;
+    padding-top: 56px;
+  }
+}
