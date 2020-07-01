@@ -15,18 +15,14 @@
           alt="The USA"
           class="header__logo"
         />
-        <nav>
-          <ul class="header__lang-links">
-            <li>
-              <a
-                href="#"
-                class="link header__lang-link header__lang-link_active"
-                >En</a
-              >
-            </li>
-            <li><a href="#" class="link header__lang-link">Es</a></li>
-          </ul>
-        </nav>
+        <ul class="header__lang-links">
+          <li>
+            <a href="#" class="link header__lang-link header__lang-link_active"
+              >En</a
+            >
+          </li>
+          <li><a href="#" class="link header__lang-link">Es</a></li>
+        </ul>
       </header>
 
       <main>
@@ -36,12 +32,16 @@
             An epic bicycle journey from&nbsp;Portland,&nbsp;ME.
             to&nbsp;Portland,&nbsp;OR
           </p>
-          <img
-            src="./images/lead-mountains.jpg"
-            alt="mountains"
-            class="lead__image"
-          />
-          <p class="lead__caption">Your journey starts here</p>
+          <figure class="lead__figure">
+            <img
+              src="./images/lead-mountains.jpg"
+              alt="mountains"
+              class="lead__image"
+            />
+            <figcaption class="lead__caption">
+              Your journey starts here
+            </figcaption>
+          </figure>
         </section>
 
         <section class="intro">
@@ -176,6 +176,7 @@
                 <h3 class="place__url-heading">URL</h3>
                 <a
                   href="https://global.llbean.com/shop/L.L.Bean-Continental-Rucksack/122952.html?bc=50-816&csp=f&feat=816-GN1"
+                  target="_blank"
                   class="link place__link"
                   >global.llbean.com</a
                 >
@@ -210,6 +211,7 @@
                 <h3 class="place__url-heading">URL</h3>
                 <a
                   href="https://www.timberland.com/timberlandpro.html"
+                  target="_blank"
                   class="link place__link"
                   >timberland.com</a
                 >
@@ -243,7 +245,10 @@
               <h2 class="place__title">New York</h2>
               <div class="place__website">
                 <h3 class="place__url-heading">URL</h3>
-                <a href="https://www.ge.com/about-us" class="link place__link"
+                <a
+                  href="https://www.ge.com/about-us"
+                  target="_blank"
+                  class="link place__link"
                   >ge.com</a
                 >
               </div>
@@ -276,6 +281,7 @@
                 <h3 class="place__url-heading">URL</h3>
                 <a
                   href="https://www.fws.gov/refuge/erie"
+                  target="_blank"
                   class="link place__link"
                   >www.fws.gov</a
                 >
@@ -313,7 +319,10 @@
               <h2 class="place__title">Ohio</h2>
               <div class="place__website">
                 <h3 class="place__url-heading">URL</h3>
-                <a href="https://www.cedarpoint.com" class="link place__link"
+                <a
+                  href="https://www.cedarpoint.com"
+                  target="_blank"
+                  class="link place__link"
                   >cedarpoint.com</a
                 >
               </div>
@@ -348,6 +357,7 @@
         <section class="cover">
           <a
             href="https://www.nps.gov/nr/travel/route66/maps66.html"
+            target="_blank"
             class="cover__link"
           >
             <div class="cover__overlay">
@@ -361,23 +371,31 @@
           </a>
         </section>
       </main>
+
       <footer class="footer">
         <nav>
           <ul class="footer__links">
             <li>
-              <a href="https://yandex.com/maps" class="link footer__link"
+              <a
+                href="https://yandex.com/maps"
+                target="_blank"
+                class="link footer__link"
                 >Maps</a
               >
             </li>
             <li>
               <a
                 href="https://yandex.com/weather/moscow"
+                target="_blank"
                 class="link footer__link"
                 >Weather</a
               >
             </li>
             <li>
-              <a href="https://www.any.do/" class="link footer__link"
+              <a
+                href="https://www.any.do/"
+                target="_blank"
+                class="link footer__link"
                 >Calendar</a
               >
             </li>

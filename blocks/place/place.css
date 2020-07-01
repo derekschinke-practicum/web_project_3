@@ -5,7 +5,6 @@
 @import url('./__link/place__link.css');
 @import url('./__paragraphs/place__paragraphs.css');
 @import url('./__paragraph/place__paragraph.css');
-@import url('./__paragraph/_size_small/place__paragraph_size_small.css');
 
 .place {
   display: flex;
