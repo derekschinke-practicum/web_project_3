@@ -16,6 +16,6 @@ HTML & CSS technologies it demonstrates are:
 - media queries for responsiveness
 
 The website can be accessed
-[here](https://derekschinke-practicum.github.io/web_project_3/).
+[here](https://derekschinke-practicum.github.io/web_project_3/index.html).
 
 ###### [Yandex.Practicum](https://practicum.yandex.com/) | [Яндекс.Практикум](https://praktikum.yandex.ru/)
