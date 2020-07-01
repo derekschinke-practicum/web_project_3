@@ -1,7 +1,7 @@
 .intro__list {
   padding: 0;
   margin: 0;
-  width: 690px;
+  max-width: 690px;
   padding-top: 32px;
   list-style: none;
   font-weight: normal;
