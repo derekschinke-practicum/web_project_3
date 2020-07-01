@@ -19,3 +19,10 @@
     padding-top: 88px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .photo-grid {
+    width: 288px;
+    padding-top: 64px;
+  }
+}
