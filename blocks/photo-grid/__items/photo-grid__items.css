@@ -4,24 +4,24 @@
   padding: 0;
   display: flex;
   flex-direction: row;
-  gap: 16px;
+  grid-gap: 16px;
   flex-wrap: wrap;
 }
 
 @media screen and (max-width: 1279px) {
   .photo-grid__items {
-    gap: 14px;
+    grid-gap: 14px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .photo-grid__items {
-    gap: 16px;
+    grid-gap: 16px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .photo-grid__items {
-    gap: 12px;
+    grid-gap: 12px;
   }
 }
