@@ -1,20 +1,19 @@
 # Project 3: From Portland to Portland
 
+## [Web Developer from Practicum by Yandex](https://practicum.yandex.com/web/)
+
 ### Overview
-* Intro
-* Figma
-* Images
 
-**Intro**
+This project is part of the Adaptive Web Design and Working with Layouts sprint
+for the Web Developer course at Practicum by Yandex.
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+### Technologies Used
 
-**Figma**
+HTML & CSS technologies it demonstrates are:
 
-* [Link to the project on Figma](https://www.figma.com/file/xM9rNsdK4iNcFJmDZho3Aw/Sprint-3%3A-From-Portland-to-Portland-%2F-desktop-%2B-mobile?node-id=500%3A0)
+- flexbox
+- BEM (Block, Element, Modifier) methodology
+- media queries for responsiveness
+- animations, transformations, and transitions
 
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-
-Good luck and have fun!
+###### [Yandex.Practicum](https://practicum.yandex.com/) | [Яндекс.Практикум](https://praktikum.yandex.ru/)
