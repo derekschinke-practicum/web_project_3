@@ -14,6 +14,8 @@ HTML & CSS technologies it demonstrates are:
 - flexbox
 - BEM (Block, Element, Modifier) methodology
 - media queries for responsiveness
-- animations, transformations, and transitions
+
+The website can be accessed
+[here](https://derekschinke-practicum.github.io/web_project_3/).
 
 ###### [Yandex.Practicum](https://practicum.yandex.com/) | [Яндекс.Практикум](https://praktikum.yandex.ru/)
