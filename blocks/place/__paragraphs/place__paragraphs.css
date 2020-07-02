@@ -1,16 +1,20 @@
 .place__paragraphs {
   width: 484px;
+  padding-top: 48px;
+  margin-left: 40px;
 }
 
 @media screen and (max-width: 1279px) {
   .place__paragraphs {
     width: 456px;
+    margin-left: 32px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .place__paragraphs {
     width: 352px;
+    margin-left: 28px;
   }
 }
 
@@ -19,5 +23,6 @@
     margin-right: 16px;
     margin-left: 16px;
     width: 100%;
+    padding-top: 32px;
   }
 }
